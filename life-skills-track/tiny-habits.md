@@ -32,7 +32,7 @@
 - Use visual cues to trigger habit initiation.
 - Provide immediate rewards for completing the habit.
 
-### Question 7
+### Question 7:
 ### Write about the book's perspective on how to make a habit harder to do?
 - Remove or hide triggers that initiate the habit.
 - Increase the effort required to start the habit.
