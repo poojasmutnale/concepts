@@ -66,30 +66,37 @@
   <p>This is a blue paragraph with internal styles.</p>
 </body>
 ```
+
 ## 3. External Styles
 
 **External styles** are defined in a separate CSS file, which is linked to the HTML document using the `<link>` tag. This is the preferred method for larger projects.
 
 ```html
 <head>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <p>This is a blue paragraph with external styles.</p>
 </body>
 ```
+
 ```css
 p {
   color: blue;
   font-size: 16px;
 }
 ```
+
 ### Use cases
-**Inline Styles**: 
+
+**Inline Styles**:
+
 - Best for quick, one-off styling; not scalable.
 
 **Internal Styles**:
+
 - Useful for single-page styling; not reusable across pages.
 
 **External Styles**:
+
 - Ideal for larger projects; promotes reuse and maintainability.

@@ -64,12 +64,12 @@ An HTML document typically starts with a `<!DOCTYPE html>` declaration, followed
 
 ### Examples of Non-Semantic Tags:
 
-- **`<div>`**:
-- A generic container for grouping content.
+**`<div>`**: A generic container for grouping content.
+
 - It has no intrinsic meaning and is typically used for layout purposes.
 
-- **`<span>`**:
-- An inline container for text or elements.
+**`<span>`**: An inline container for text or elements.
+
 - Like `<div>`, it has no inherent meaning and is often used for styling purposes.
 
 ### Usage of Non-Semantic Tags:
