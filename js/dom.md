@@ -135,9 +135,9 @@ document.getElementById("myButton").addEventListener("click", function () {
 
 - by using the method `removeEventListener().
 
-  ![js screenshot](image-5.png);
-  ![html code screenshot](image-4.png);
-  ![output screenshot](image-6.png);
+  ![js screenshot](./image-5.png);
+  ![html code screenshot](./image-4.png);
+  ![output screenshot](./image-6.png);
 
 ## Adding and Removing Event Listeners
 
